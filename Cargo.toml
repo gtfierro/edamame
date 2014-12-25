@@ -1,0 +1,5 @@
+[package]
+
+name = "rustirc"
+version = "0.0.1"
+authors = ["Gabe Fierro <gtfierro225@gmail.com>"]
